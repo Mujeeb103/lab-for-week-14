@@ -59,3 +59,18 @@ input[type=submit] {
     text-align: center;
 }
 
+textarea {
+    background-color: #FFC0CB;
+    width: 75%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #9932CC;
+    border-radius: 4px;
+    resize: none;
+    position: relative;
+    top: 45px;
+    left: 10px;
+    
+  }
+
