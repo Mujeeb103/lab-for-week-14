@@ -17,3 +17,45 @@ p {
     padding-top: 10px;
     font-size: 22px;
 }
+
+input[type=text] {
+    background-color: #FFC0CB;
+    width: 20%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #9932CC;
+    border-radius: 4px;
+    resize: none;
+    position: relative;
+    top: 30px;
+    left: 10px;
+    
+}
+
+input[type=email] {
+    background-color: #FFC0CB;
+    width: 20%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #9932CC;
+    border-radius: 4px;
+    resize: none;
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+input[type=submit] {
+    background-color: #FFC0CB;
+    width: 5%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #9932CC;
+    border-radius: 4px;
+    resize: none;
+    position: relative;
+    right: 950px;
+    top: 85px;
+    text-align: center;
+}
+
